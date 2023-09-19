@@ -1,0 +1,502 @@
+[
+    {
+        "city": "海北",
+        "today": "-7~5°",
+        "average": "-1°"
+    },
+    {
+        "city": "阿里",
+        "today": "-5~2°",
+        "average": "-1.5°"
+    },
+    {
+        "city": "玉树",
+        "today": "-5~4°",
+        "average": "-0.5°"
+    },
+    {
+        "city": "果洛",
+        "today": "-4~1°",
+        "average": "-1.5°"
+    },
+    {
+        "city": "海南",
+        "today": "-4~6°",
+        "average": "1°"
+    },
+    {
+        "city": "甘南",
+        "today": "-4~7°",
+        "average": "1.5°"
+    },
+    {
+        "city": "海西",
+        "today": "-4~13°",
+        "average": "4.5°"
+    },
+    {
+        "city": "那曲",
+        "today": "-3~0°",
+        "average": "-1.5°"
+    },
+    {
+        "city": "阿坝",
+        "today": "-3~3°",
+        "average": "0°"
+    },
+    {
+        "city": "昌都",
+        "today": "-1~5°",
+        "average": "2°"
+    },
+    {
+        "city": "甘孜",
+        "today": "0~5°",
+        "average": "2.5°"
+    },
+    {
+        "city": "迪庆",
+        "today": "0~12°",
+        "average": "6°"
+    },
+    {
+        "city": "西宁",
+        "today": "0~13°",
+        "average": "6.5°"
+    },
+    {
+        "city": "日喀则",
+        "today": "1~10°",
+        "average": "5.5°"
+    },
+    {
+        "city": "海东",
+        "today": "2~16°",
+        "average": "9°"
+    },
+    {
+        "city": "拉萨",
+        "today": "3~11°",
+        "average": "7°"
+    },
+    {
+        "city": "黄南",
+        "today": "3~11°",
+        "average": "7°"
+    },
+    {
+        "city": "定西",
+        "today": "3~17°",
+        "average": "10°"
+    },
+    {
+        "city": "七台河",
+        "today": "3~20°",
+        "average": "11.5°"
+    },
+    {
+        "city": "鹤岗",
+        "today": "3~22°",
+        "average": "12.5°"
+    },
+    {
+        "city": "佳木斯",
+        "today": "3~23°",
+        "average": "13°"
+    },
+    {
+        "city": "锡林郭勒",
+        "today": "4~12°",
+        "average": "8°"
+    },
+    {
+        "city": "临夏",
+        "today": "4~17°",
+        "average": "10.5°"
+    },
+    {
+        "city": "山南",
+        "today": "4~18°",
+        "average": "11°"
+    },
+    {
+        "city": "牡丹江",
+        "today": "4~24°",
+        "average": "14°"
+    },
+    {
+        "city": "平凉",
+        "today": "5~21°",
+        "average": "13°"
+    },
+    {
+        "city": "伊春",
+        "today": "5~22°",
+        "average": "13.5°"
+    },
+    {
+        "city": "鸡西",
+        "today": "5~22°",
+        "average": "13.5°"
+    },
+    {
+        "city": "延边",
+        "today": "5~22°",
+        "average": "13.5°"
+    },
+    {
+        "city": "林芝",
+        "today": "6~11°",
+        "average": "8.5°"
+    },
+    {
+        "city": "乌兰察布",
+        "today": "6~16°",
+        "average": "11°"
+    },
+    {
+        "city": "白山",
+        "today": "6~22°",
+        "average": "14°"
+    },
+    {
+        "city": "固原",
+        "today": "7~17°",
+        "average": "12°"
+    },
+    {
+        "city": "白银",
+        "today": "7~19°",
+        "average": "13°"
+    },
+    {
+        "city": "榆林",
+        "today": "7~21°",
+        "average": "14°"
+    },
+    {
+        "city": "张掖",
+        "today": "7~22°",
+        "average": "14.5°"
+    },
+    {
+        "city": "大同",
+        "today": "7~22°",
+        "average": "14.5°"
+    },
+    {
+        "city": "中卫",
+        "today": "7~22°",
+        "average": "14.5°"
+    },
+    {
+        "city": "太原",
+        "today": "7~23°",
+        "average": "15°"
+    },
+    {
+        "city": "延安",
+        "today": "7~24°",
+        "average": "15.5°"
+    },
+    {
+        "city": "庆阳",
+        "today": "8~20°",
+        "average": "14°"
+    },
+    {
+        "city": "吕梁",
+        "today": "8~22°",
+        "average": "15°"
+    },
+    {
+        "city": "包头",
+        "today": "8~23°",
+        "average": "15.5°"
+    },
+    {
+        "city": "石嘴山",
+        "today": "8~23°",
+        "average": "15.5°"
+    },
+    {
+        "city": "呼伦贝尔",
+        "today": "8~23°",
+        "average": "15.5°"
+    },
+    {
+        "city": "黑河",
+        "today": "8~24°",
+        "average": "16°"
+    },
+    {
+        "city": "天水",
+        "today": "8~24°",
+        "average": "16°"
+    },
+    {
+        "city": "呼和浩特",
+        "today": "9~19°",
+        "average": "14°"
+    },
+    {
+        "city": "长治",
+        "today": "9~20°",
+        "average": "14.5°"
+    },
+    {
+        "city": "张家口",
+        "today": "9~20°",
+        "average": "14.5°"
+    },
+    {
+        "city": "双鸭山",
+        "today": "9~21°",
+        "average": "15°"
+    },
+    {
+        "city": "朔州",
+        "today": "9~21°",
+        "average": "15°"
+    },
+    {
+        "city": "巴彦淖尔",
+        "today": "9~22°",
+        "average": "15.5°"
+    },
+    {
+        "city": "商洛",
+        "today": "9~22°",
+        "average": "15.5°"
+    },
+    {
+        "city": "酒泉",
+        "today": "9~23°",
+        "average": "16°"
+    },
+    {
+        "city": "吴忠",
+        "today": "9~23°",
+        "average": "16°"
+    },
+    {
+        "city": "忻州",
+        "today": "9~23°",
+        "average": "16°"
+    },
+    {
+        "city": "阿拉善盟",
+        "today": "9~23°",
+        "average": "16°"
+    },
+    {
+        "city": "晋中",
+        "today": "9~23°",
+        "average": "16°"
+    },
+    {
+        "city": "乌海",
+        "today": "9~24°",
+        "average": "16.5°"
+    },
+    {
+        "city": "昭通",
+        "today": "10~12°",
+        "average": "11°"
+    },
+    {
+        "city": "六盘水",
+        "today": "10~15°",
+        "average": "12.5°"
+    },
+    {
+        "city": "兰州",
+        "today": "10~17°",
+        "average": "13.5°"
+    },
+    {
+        "city": "神农架",
+        "today": "10~19°",
+        "average": "14.5°"
+    },
+    {
+        "city": "鄂尔多斯",
+        "today": "10~19°",
+        "average": "14.5°"
+    },
+    {
+        "city": "武威",
+        "today": "10~21°",
+        "average": "15.5°"
+    },
+    {
+        "city": "丽江",
+        "today": "10~21°",
+        "average": "15.5°"
+    },
+    {
+        "city": "金昌",
+        "today": "10~22°",
+        "average": "16°"
+    },
+    {
+        "city": "晋城",
+        "today": "10~22°",
+        "average": "16°"
+    },
+    {
+        "city": "通化",
+        "today": "10~23°",
+        "average": "16.5°"
+    },
+    {
+        "city": "嘉峪关",
+        "today": "10~23°",
+        "average": "16.5°"
+    },
+    {
+        "city": "赤峰",
+        "today": "10~25°",
+        "average": "17.5°"
+    },
+    {
+        "city": "毕节",
+        "today": "11~15°",
+        "average": "13°"
+    },
+    {
+        "city": "安顺",
+        "today": "11~16°",
+        "average": "13.5°"
+    },
+    {
+        "city": "曲靖",
+        "today": "11~21°",
+        "average": "16°"
+    },
+    {
+        "city": "吉林",
+        "today": "11~22°",
+        "average": "16.5°"
+    },
+    {
+        "city": "阳泉",
+        "today": "11~23°",
+        "average": "17°"
+    },
+    {
+        "city": "渭南",
+        "today": "11~23°",
+        "average": "17°"
+    },
+    {
+        "city": "宿州",
+        "today": "11~23°",
+        "average": "17°"
+    },
+    {
+        "city": "哈尔滨",
+        "today": "11~24°",
+        "average": "17.5°"
+    },
+    {
+        "city": "临汾",
+        "today": "11~24°",
+        "average": "17.5°"
+    },
+    {
+        "city": "抚顺",
+        "today": "11~25°",
+        "average": "18°"
+    },
+    {
+        "city": "咸阳",
+        "today": "11~25°",
+        "average": "18°"
+    },
+    {
+        "city": "杨凌",
+        "today": "11~25°",
+        "average": "18°"
+    },
+    {
+        "city": "克州",
+        "today": "11~26°",
+        "average": "18.5°"
+    },
+    {
+        "city": "承德",
+        "today": "11~26°",
+        "average": "18.5°"
+    },
+    {
+        "city": "安康",
+        "today": "11~26°",
+        "average": "18.5°"
+    },
+    {
+        "city": "昆玉市",
+        "today": "11~26°",
+        "average": "18.5°"
+    },
+    {
+        "city": "巴音郭楞",
+        "today": "11~28°",
+        "average": "19.5°"
+    },
+    {
+        "city": "巴州",
+        "today": "11~28°",
+        "average": "19.5°"
+    },
+    {
+        "city": "铁门关",
+        "today": "11~28°",
+        "average": "19.5°"
+    },
+    {
+        "city": "黔南",
+        "today": "12~17°",
+        "average": "14.5°"
+    },
+    {
+        "city": "邵阳",
+        "today": "12~18°",
+        "average": "15°"
+    },
+    {
+        "city": "秦皇岛",
+        "today": "12~20°",
+        "average": "16°"
+    },
+    {
+        "city": "合肥",
+        "today": "12~20°",
+        "average": "16°"
+    },
+    {
+        "city": "三门峡",
+        "today": "12~21°",
+        "average": "16.5°"
+    },
+    {
+        "city": "随州",
+        "today": "12~22°",
+        "average": "17°"
+    },
+    {
+        "city": "绥化",
+        "today": "12~23°",
+        "average": "17.5°"
+    },
+    {
+        "city": "银川",
+        "today": "12~23°",
+        "average": "17.5°"
+    },
+    {
+        "city": "辽源",
+        "today": "12~23°",
+        "average": "17.5°"
+    }
+]

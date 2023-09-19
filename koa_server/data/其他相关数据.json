@@ -1,0 +1,1940 @@
+[
+    {
+        "city": "Ngawa Prefecture",
+        "Precipitation": 665.1,
+        "Temperature": 8.2,
+        "Incineration": 23.0
+    },
+    {
+        "city": "Aksu City",
+        "Precipitation": 80.4,
+        "Temperature": 12.27671233,
+        "Incineration": 23.0
+    },
+    {
+        "city": "Alxa League",
+        "Precipitation": 150.0,
+        "Temperature": 24.2,
+        "Incineration": 23.0
+    },
+    {
+        "city": "Ngari",
+        "Precipitation": 74.2,
+        "Temperature": 1.0,
+        "Incineration": 23.0
+    },
+    {
+        "city": "Anqin City",
+        "Precipitation": 2127.8,
+        "Temperature": 17.29178082,
+        "Incineration": 27.48
+    },
+    {
+        "city": "Anyang City",
+        "Precipitation": 672.1,
+        "Temperature": 15.35068493,
+        "Incineration": 54.51
+    },
+    {
+        "city": "Anshan City",
+        "Precipitation": 708.0,
+        "Temperature": 11.41232877,
+        "Incineration": 58.13
+    },
+    {
+        "city": "Macao SAR",
+        "Precipitation": 2000.0,
+        "Temperature": 22.0,
+        "Incineration": 22.0
+    },
+    {
+        "city": "Bayannur City",
+        "Precipitation": 188.0,
+        "Temperature": 3.7,
+        "Incineration": 15.98
+    },
+    {
+        "city": "Bazhong City",
+        "Precipitation": 1198.9,
+        "Temperature": 16.9,
+        "Incineration": 15.09
+    },
+    {
+        "city": "Bengbu City",
+        "Precipitation": 910.0,
+        "Temperature": 16.01369863,
+        "Incineration": 29.61
+    },
+    {
+        "city": "Baotou City",
+        "Precipitation": 262.9,
+        "Temperature": 8.91369863,
+        "Incineration": 52.29
+    },
+    {
+        "city": "Baoji City",
+        "Precipitation": 695.0,
+        "Temperature": 14.83424658,
+        "Incineration": 36.54
+    },
+    {
+        "city": "Baoding City",
+        "Precipitation": 566.9,
+        "Temperature": 13.25890411,
+        "Incineration": 49.27
+    },
+    {
+        "city": "Baoshan City",
+        "Precipitation": 1000.0,
+        "Temperature": 17.39178082,
+        "Incineration": 10.95
+    },
+    {
+        "city": "Beihai City",
+        "Precipitation": 1670.0,
+        "Temperature": 24.61643836,
+        "Incineration": 24.74
+    },
+    {
+        "city": "Beijing City",
+        "Precipitation": 458.9,
+        "Temperature": 13.77260274,
+        "Incineration": 686.67
+    },
+    {
+        "city": "Benxi City",
+        "Precipitation": 920.0,
+        "Temperature": 9.271232877,
+        "Incineration": 31.76
+    },
+    {
+        "city": "Binzhou City",
+        "Precipitation": 564.8,
+        "Temperature": 14.11643836,
+        "Incineration": 27.99
+    },
+    {
+        "city": "Haozhou City",
+        "Precipitation": 831.0,
+        "Temperature": 10.58695652,
+        "Incineration": 17.66
+    },
+    {
+        "city": "Cangzhiu City",
+        "Precipitation": 581.0,
+        "Temperature": 14.30273973,
+        "Incineration": 24.0
+    },
+    {
+        "city": "Qamdo City",
+        "Precipitation": 477.7,
+        "Temperature": 7.6,
+        "Incineration": 3.5
+    },
+    {
+        "city": "Changde City",
+        "Precipitation": 1550.0,
+        "Temperature": 17.93287671,
+        "Incineration": 26.81
+    },
+    {
+        "city": "Changshu City",
+        "Precipitation": 1615.3,
+        "Temperature": 17.27534247,
+        "Incineration": 28.61
+    },
+    {
+        "city": "Changzhou City",
+        "Precipitation": 1450.9,
+        "Temperature": 16.9739726,
+        "Incineration": 76.48
+    },
+    {
+        "city": "Chaohu City",
+        "Precipitation": 1215.0,
+        "Temperature": 16.82876712,
+        "Incineration": 13.5
+    },
+    {
+        "city": "Chaoyang City",
+        "Precipitation": 450.0,
+        "Temperature": 13.72739726,
+        "Incineration": 33.0
+    },
+    {
+        "city": "Chaozhou City",
+        "Precipitation": 1685.8,
+        "Temperature": 23.19589041,
+        "Incineration": 51.94
+    },
+    {
+        "city": "Chenzhou City",
+        "Precipitation": 1452.1,
+        "Temperature": 19.67808219,
+        "Incineration": 21.78
+    },
+    {
+        "city": "Chengdu City",
+        "Precipitation": 873.3,
+        "Temperature": 18.22191781,
+        "Incineration": 273.55
+    },
+    {
+        "city": "Chengde City",
+        "Precipitation": 440.5,
+        "Temperature": 10.08219178,
+        "Incineration": 30.0
+    },
+    {
+        "city": "Chizhou City",
+        "Precipitation": 1959.4,
+        "Temperature": 17.30547945,
+        "Incineration": 14.06
+    },
+    {
+        "city": "Chifeng City",
+        "Precipitation": 374.0,
+        "Temperature": 8.434246575,
+        "Incineration": 42.03
+    },
+    {
+        "city": "Chuzhou City",
+        "Precipitation": 1035.0,
+        "Temperature": 15.50273973,
+        "Incineration": 12.57
+    },
+    {
+        "city": "Chuxiong Prefecture",
+        "Precipitation": 900.0,
+        "Temperature": 14.8,
+        "Incineration": 10.95
+    },
+    {
+        "city": "Dazhou City",
+        "Precipitation": 1086.1,
+        "Temperature": 18.75205479,
+        "Incineration": 23.12
+    },
+    {
+        "city": "Dali City",
+        "Precipitation": 1768.9,
+        "Temperature": 16.4,
+        "Incineration": 21.5
+    },
+    {
+        "city": "Dalian City",
+        "Precipitation": 601.9,
+        "Temperature": 12.40273973,
+        "Incineration": 122.81
+    },
+    {
+        "city": "Daqing City",
+        "Precipitation": 427.5,
+        "Temperature": 6.167123288,
+        "Incineration": 43.64
+    },
+    {
+        "city": "Datong City",
+        "Precipitation": 56.1,
+        "Temperature": 7.468493151,
+        "Incineration": 23.0
+    },
+    {
+        "city": "Dandong City",
+        "Precipitation": 878.5,
+        "Temperature": 10.24520548,
+        "Incineration": 21.37
+    },
+    {
+        "city": "Dehong Prefecture",
+        "Precipitation": 1766.9,
+        "Temperature": 18.4,
+        "Incineration": 10.0
+    },
+    {
+        "city": "Deyang City",
+        "Precipitation": 711.0,
+        "Temperature": 18.13561644,
+        "Incineration": 18.25
+    },
+    {
+        "city": "Dezhou City",
+        "Precipitation": 547.5,
+        "Temperature": 15.0109589,
+        "Incineration": 30.29
+    },
+    {
+        "city": "Diqing Prefecture",
+        "Precipitation": 824.0,
+        "Temperature": 13.0,
+        "Incineration": 23.0
+    },
+    {
+        "city": "Dongguan City",
+        "Precipitation": 2137.9,
+        "Temperature": 23.84931507,
+        "Incineration": 390.43
+    },
+    {
+        "city": "Dongying City",
+        "Precipitation": 684.7,
+        "Temperature": 14.82876712,
+        "Incineration": 22.32
+    },
+    {
+        "city": "Erdos City",
+        "Precipitation": 348.3,
+        "Temperature": 6.2,
+        "Incineration": 22.4
+    },
+    {
+        "city": "Ezhou City",
+        "Precipitation": 1364.1,
+        "Temperature": 18.29863014,
+        "Incineration": 17.85
+    },
+    {
+        "city": "Enshi Prefecture",
+        "Precipitation": 1535.0,
+        "Temperature": 16.0,
+        "Incineration": 11.96
+    },
+    {
+        "city": "Erenhot City",
+        "Precipitation": 136.6,
+        "Temperature": 3.4,
+        "Incineration": 7.2
+    },
+    {
+        "city": "Foshan City",
+        "Precipitation": 2055.2,
+        "Temperature": 23.77260274,
+        "Incineration": 93.84
+    },
+    {
+        "city": "Fuzhou City",
+        "Precipitation": 1775.2,
+        "Temperature": 21.41232877,
+        "Incineration": 105.9
+    },
+    {
+        "city": "Fushun City",
+        "Precipitation": 760.0,
+        "Temperature": 7.48630137,
+        "Incineration": 38.22
+    },
+    {
+        "city": "Fuzhou City(Jiangxi)",
+        "Precipitation": 1700.0,
+        "Temperature": 19.54931507,
+        "Incineration": 22.34
+    },
+    {
+        "city": "Fuxin city",
+        "Precipitation": 480.0,
+        "Temperature": 9.308219178,
+        "Incineration": 29.2
+    },
+    {
+        "city": "Fuyang City(Anhui)",
+        "Precipitation": 910.0,
+        "Temperature": 17.80958904,
+        "Incineration": 25.23
+    },
+    {
+        "city": "Fuyang City(Zhejiang)",
+        "Precipitation": 2137.7,
+        "Temperature": 16.0890411,
+        "Incineration": 29.0
+    },
+    {
+        "city": "Garze Prefecture",
+        "Precipitation": 920.0,
+        "Temperature": 13.5,
+        "Incineration": 23.0
+    },
+    {
+        "city": "Ganzhou City",
+        "Precipitation": 1469.0,
+        "Temperature": 20.96712329,
+        "Incineration": 37.63
+    },
+    {
+        "city": "Kaohsiung City",
+        "Precipitation": 1738.0,
+        "Temperature": 24.2,
+        "Incineration": 136.24
+    },
+    {
+        "city": "Guang'an City",
+        "Precipitation": 1071.2,
+        "Temperature": 18.29589041,
+        "Incineration": 14.34
+    },
+    {
+        "city": "Guangyuan City",
+        "Precipitation": 892.8,
+        "Temperature": 17.27671233,
+        "Incineration": 18.66
+    },
+    {
+        "city": "Guangzhou City",
+        "Precipitation": 2478.1,
+        "Temperature": 23.60547945,
+        "Incineration": 455.84
+    },
+    {
+        "city": "Guiyang City",
+        "Precipitation": 1433.2,
+        "Temperature": 19.07945205,
+        "Incineration": 111.88
+    },
+    {
+        "city": "Guilin City",
+        "Precipitation": 1901.0,
+        "Temperature": 20.24520548,
+        "Incineration": 38.42
+    },
+    {
+        "city": "Harbin City",
+        "Precipitation": 423.1,
+        "Temperature": 5.836986301,
+        "Incineration": 143.26
+    },
+    {
+        "city": "Haikou City",
+        "Precipitation": 1674.3,
+        "Temperature": 26.09041096,
+        "Incineration": 78.19
+    },
+    {
+        "city": "Haimen City",
+        "Precipitation": 581.0,
+        "Temperature": 16.53972603,
+        "Incineration": 9.06
+    },
+    {
+        "city": "Handan City",
+        "Precipitation": 458.0,
+        "Temperature": 15.28356164,
+        "Incineration": 49.0
+    },
+    {
+        "city": "Hangzhou City",
+        "Precipitation": 2137.7,
+        "Temperature": 17.90547945,
+        "Incineration": 351.98
+    },
+    {
+        "city": "Hefei City",
+        "Precipitation": 1224.9,
+        "Temperature": 17.125,
+        "Incineration": 122.05
+    },
+    {
+        "city": "Heyuan City",
+        "Precipitation": 1700.0,
+        "Temperature": 22.77260274,
+        "Incineration": 21.34
+    },
+    {
+        "city": "Heze City",
+        "Precipitation": 831.0,
+        "Temperature": 15.62054795,
+        "Incineration": 40.15
+    },
+    {
+        "city": "Hebi City",
+        "Precipitation": 534.0,
+        "Temperature": 14.30684932,
+        "Incineration": 15.96
+    },
+    {
+        "city": "Hengshui City",
+        "Precipitation": 547.0,
+        "Temperature": 14.65479452,
+        "Incineration": 27.0
+    },
+    {
+        "city": "Hengyang City",
+        "Precipitation": 142.0,
+        "Temperature": 19.37945205,
+        "Incineration": 43.82
+    },
+    {
+        "city": "Honghe Prefecture",
+        "Precipitation": 1893.0,
+        "Temperature": 18.1,
+        "Incineration": 23.0
+    },
+    {
+        "city": "Hohhot City",
+        "Precipitation": 361.2,
+        "Temperature": 6.0,
+        "Incineration": 23.0
+    },
+    {
+        "city": "Hulunbeier City",
+        "Precipitation": 250.0,
+        "Temperature": 0.0,
+        "Incineration": 22.0
+    },
+    {
+        "city": "Huludao City",
+        "Precipitation": 878.0,
+        "Temperature": 10.55342466,
+        "Incineration": 25.25
+    },
+    {
+        "city": "Huzhou City",
+        "Precipitation": 1450.0,
+        "Temperature": 17.14520548,
+        "Incineration": 45.77
+    },
+    {
+        "city": "Hualien County",
+        "Precipitation": 1268.0,
+        "Temperature": 23.0,
+        "Incineration": 24.0
+    },
+    {
+        "city": "Huai'an City",
+        "Precipitation": 878.0,
+        "Temperature": 13.6,
+        "Incineration": 43.26
+    },
+    {
+        "city": "Huaibei City",
+        "Precipitation": 920.0,
+        "Temperature": 16.19726027,
+        "Incineration": 21.75
+    },
+    {
+        "city": "Huainan City",
+        "Precipitation": 910.0,
+        "Temperature": 17.13150685,
+        "Incineration": 32.1
+    },
+    {
+        "city": "Huanggang City",
+        "Precipitation": 1550.0,
+        "Temperature": 17.80273973,
+        "Incineration": 18.76
+    },
+    {
+        "city": "Huangshan mountain Scenic Spot",
+        "Precipitation": 440.0,
+        "Temperature": 8.3,
+        "Incineration": 23.0
+    },
+    {
+        "city": "Huangshan City",
+        "Precipitation": 1469.0,
+        "Temperature": 17.73150685,
+        "Incineration": 12.61
+    },
+    {
+        "city": "Huangshi City",
+        "Precipitation": 2137.0,
+        "Temperature": 18.05616438,
+        "Incineration": 29.2
+    },
+    {
+        "city": "Huizhou City",
+        "Precipitation": 1670.0,
+        "Temperature": 23.98219178,
+        "Incineration": 95.29
+    },
+    {
+        "city": "Keelung City",
+        "Precipitation": 1775.0,
+        "Temperature": 21.0,
+        "Incineration": 24.0
+    },
+    {
+        "city": "Ji'an City",
+        "Precipitation": 1035.0,
+        "Temperature": 18.32191781,
+        "Incineration": 16.65
+    },
+    {
+        "city": "Jilin City",
+        "Precipitation": 308.0,
+        "Temperature": 7.176712329,
+        "Incineration": 33.83
+    },
+    {
+        "city": "Jimo City",
+        "Precipitation": 1670.0,
+        "Temperature": 14.21506849,
+        "Incineration": 25.02
+    },
+    {
+        "city": "Jinan City",
+        "Precipitation": 713.7,
+        "Temperature": 15.58356164,
+        "Incineration": 137.28
+    },
+    {
+        "city": "Jining City",
+        "Precipitation": 831.0,
+        "Temperature": 13.85616438,
+        "Incineration": 49.05
+    },
+    {
+        "city": "Jiyuan City",
+        "Precipitation": 480.0,
+        "Temperature": 14.6,
+        "Incineration": 18.96
+    },
+    {
+        "city": "Jiaxing City",
+        "Precipitation": 574.0,
+        "Temperature": 17.26986301,
+        "Incineration": 33.39
+    },
+    {
+        "city": "Chiayi County",
+        "Precipitation": 1775.0,
+        "Temperature": 22.6,
+        "Incineration": 24.0
+    },
+    {
+        "city": "Jiayuguan City",
+        "Precipitation": 267.0,
+        "Temperature": 7.2,
+        "Incineration": 7.3
+    },
+    {
+        "city": "Jiangmen City",
+        "Precipitation": 1966.0,
+        "Temperature": 23.90136986,
+        "Incineration": 45.67
+    },
+    {
+        "city": "Jiangyin City",
+        "Precipitation": 581.0,
+        "Temperature": 17.05890411,
+        "Incineration": 18.15
+    },
+    {
+        "city": "Jiaonan City",
+        "Precipitation": 878.0,
+        "Temperature": 10.94246575,
+        "Incineration": 24.0
+    },
+    {
+        "city": "Jiaozhou City",
+        "Precipitation": 1742.0,
+        "Temperature": 14.39315068,
+        "Incineration": 18.94
+    },
+    {
+        "city": "Jiaozuo City",
+        "Precipitation": 689.0,
+        "Temperature": 16.51506849,
+        "Incineration": 27.88
+    },
+    {
+        "city": "Jieyang city",
+        "Precipitation": 1775.0,
+        "Temperature": 21.4,
+        "Incineration": 33.49
+    },
+    {
+        "city": "Jinchang City",
+        "Precipitation": 480.0,
+        "Temperature": 10.7,
+        "Incineration": 9.2
+    },
+    {
+        "city": "Jinhua City",
+        "Precipitation": 1638.0,
+        "Temperature": 18.80410959,
+        "Incineration": 45.72
+    },
+    {
+        "city": "Kinmen County",
+        "Precipitation": 1775.0,
+        "Temperature": 21.0,
+        "Incineration": 22.0
+    },
+    {
+        "city": "Jintan City",
+        "Precipitation": 1742.0,
+        "Temperature": 16.86986301,
+        "Incineration": 14.0
+    },
+    {
+        "city": "Jinzhou City",
+        "Precipitation": 547.0,
+        "Temperature": 12.18630137,
+        "Incineration": 25.0
+    },
+    {
+        "city": "Jincheng City",
+        "Precipitation": 592.0,
+        "Temperature": 13.04383562,
+        "Incineration": 17.0
+    },
+    {
+        "city": "Jinzhong City",
+        "Precipitation": 440.0,
+        "Temperature": 11.93424658,
+        "Incineration": 23.0
+    },
+    {
+        "city": "Jingmen City",
+        "Precipitation": 534.0,
+        "Temperature": 16.70273973,
+        "Incineration": 14.86
+    },
+    {
+        "city": "Jingzhou City",
+        "Precipitation": 1550.0,
+        "Temperature": 17.50547945,
+        "Incineration": 23.51
+    },
+    {
+        "city": "Jingdezhen City",
+        "Precipitation": 1700.0,
+        "Temperature": 19.07123288,
+        "Incineration": 14.78
+    },
+    {
+        "city": "Jiujiang City",
+        "Precipitation": 1550.0,
+        "Temperature": 17.92191781,
+        "Incineration": 21.57
+    },
+    {
+        "city": "Jurong City",
+        "Precipitation": 1200.0,
+        "Temperature": 16.54109589,
+        "Incineration": 7.37
+    },
+    {
+        "city": "Kaifeng City",
+        "Precipitation": 1450.0,
+        "Temperature": 15.99863014,
+        "Incineration": 31.62
+    },
+    {
+        "city": "Karamay City",
+        "Precipitation": 267.0,
+        "Temperature": 8.6,
+        "Incineration": 16.57
+    },
+    {
+        "city": "Kunming City",
+        "Precipitation": 1189.5,
+        "Temperature": 16.72054795,
+        "Incineration": 158.76
+    },
+    {
+        "city": "Kunshan City",
+        "Precipitation": 1615.0,
+        "Temperature": 17.51369863,
+        "Incineration": 69.25
+    },
+    {
+        "city": "Lhasa City",
+        "Precipitation": 377.4,
+        "Temperature": 10.06027397,
+        "Incineration": 23.76
+    },
+    {
+        "city": "Laiwu City",
+        "Precipitation": 450.0,
+        "Temperature": 14.53013699,
+        "Incineration": 22.12
+    },
+    {
+        "city": "Laixi City",
+        "Precipitation": 672.0,
+        "Temperature": 13.60136986,
+        "Incineration": 15.51
+    },
+    {
+        "city": "Laizhou City",
+        "Precipitation": 708.0,
+        "Temperature": 14.73150685,
+        "Incineration": 22.84
+    },
+    {
+        "city": "Lanzhou City",
+        "Precipitation": 267.0,
+        "Temperature": 12.33972603,
+        "Incineration": 98.36
+    },
+    {
+        "city": "Langfang City",
+        "Precipitation": 1742.0,
+        "Temperature": 13.83287671,
+        "Incineration": 27.0
+    },
+    {
+        "city": "Leshan City",
+        "Precipitation": 1066.8,
+        "Temperature": 19.2890411,
+        "Incineration": 18.99
+    },
+    {
+        "city": "Lijiang City",
+        "Precipitation": 665.0,
+        "Temperature": 14.42739726,
+        "Incineration": 13.79
+    },
+    {
+        "city": "Lishui City",
+        "Precipitation": 1229.0,
+        "Temperature": 19.87260274,
+        "Incineration": 16.1
+    },
+    {
+        "city": "Liyang City",
+        "Precipitation": 1615.0,
+        "Temperature": 16.99178082,
+        "Incineration": 7.18
+    },
+    {
+        "city": "Lianyungang City",
+        "Precipitation": 920.0,
+        "Temperature": 14.17671233,
+        "Incineration": 36.25
+    },
+    {
+        "city": "Liangshan Prefecture",
+        "Precipitation": 1433.0,
+        "Temperature": 15.3,
+        "Incineration": 23.0
+    },
+    {
+        "city": "Liaoyang City",
+        "Precipitation": 601.0,
+        "Temperature": 10.46164384,
+        "Incineration": 31.0
+    },
+    {
+        "city": "Liaocheng City",
+        "Precipitation": 458.0,
+        "Temperature": 14.74931507,
+        "Incineration": 40.74
+    },
+    {
+        "city": "Nyingchi City",
+        "Precipitation": 617.0,
+        "Temperature": 3.0,
+        "Incineration": 1.53
+    },
+    {
+        "city": "Lin'an City",
+        "Precipitation": 1224.0,
+        "Temperature": 17.04520548,
+        "Incineration": 12.77
+    },
+    {
+        "city": "Lincang City",
+        "Precipitation": 1000.0,
+        "Temperature": 19.20410959,
+        "Incineration": 6.36
+    },
+    {
+        "city": "Linfen City",
+        "Precipitation": 1535.0,
+        "Temperature": 15.19589041,
+        "Incineration": 14.0
+    },
+    {
+        "city": "Linyi City",
+        "Precipitation": 672.0,
+        "Temperature": 15.19452055,
+        "Incineration": 86.2
+    },
+    {
+        "city": "Liuzhou City",
+        "Precipitation": 1229.0,
+        "Temperature": 21.88493151,
+        "Incineration": 49.83
+    },
+    {
+        "city": "Lu'an City",
+        "Precipitation": 308.0,
+        "Temperature": 13.77260274,
+        "Incineration": 19.28
+    },
+    {
+        "city": "Longyan City",
+        "Precipitation": 1469.0,
+        "Temperature": 21.83013699,
+        "Incineration": 23.84
+    },
+    {
+        "city": "Loudi City",
+        "Precipitation": 142.0,
+        "Temperature": 18.14931507,
+        "Incineration": 14.5
+    },
+    {
+        "city": "Luzhou City",
+        "Precipitation": 1290.6,
+        "Temperature": 19.07123288,
+        "Incineration": 28.64
+    },
+    {
+        "city": "Luoyang City",
+        "Precipitation": 602.3,
+        "Temperature": 15.5109589,
+        "Incineration": 71.39
+    },
+    {
+        "city": "Luohe City",
+        "Precipitation": 831.0,
+        "Temperature": 15.70410959,
+        "Incineration": 22.0
+    },
+    {
+        "city": "Lvliang City",
+        "Precipitation": 1071.0,
+        "Temperature": 11.66575342,
+        "Incineration": 23.0
+    },
+    {
+        "city": "Ma’anshan City",
+        "Precipitation": 2137.0,
+        "Temperature": 17.05068493,
+        "Incineration": 22.91
+    },
+    {
+        "city": "Maoming City",
+        "Precipitation": 1638.0,
+        "Temperature": 24.59726027,
+        "Incineration": 22.12
+    },
+    {
+        "city": "Meishan City",
+        "Precipitation": 990.2,
+        "Temperature": 18.92191781,
+        "Incineration": 26.17
+    },
+    {
+        "city": "Meizhou City",
+        "Precipitation": 1229.0,
+        "Temperature": 22.7739726,
+        "Incineration": 21.57
+    },
+    {
+        "city": "Mianyang City",
+        "Precipitation": 717.6,
+        "Temperature": 18.31232877,
+        "Incineration": 34.24
+    },
+    {
+        "city": "Miaoli County",
+        "Precipitation": 1700.0,
+        "Temperature": 22.0,
+        "Incineration": 22.0
+    },
+    {
+        "city": "Mudanjiang City",
+        "Precipitation": 361.0,
+        "Temperature": 5.952054795,
+        "Incineration": 29.0
+    },
+    {
+        "city": "Nagqu Prefecture",
+        "Precipitation": 262.0,
+        "Temperature": -2.5,
+        "Incineration": 23.0
+    },
+    {
+        "city": "Nanchang City",
+        "Precipitation": 2207.3,
+        "Temperature": 19.2109589,
+        "Incineration": 63.69
+    },
+    {
+        "city": "Nanchong City",
+        "Precipitation": 1093.8,
+        "Temperature": 19.20410959,
+        "Incineration": 36.95
+    },
+    {
+        "city": "Nanjing City",
+        "Precipitation": 1768.9,
+        "Temperature": 16.77260274,
+        "Incineration": 238.68
+    },
+    {
+        "city": "Nanning City",
+        "Precipitation": 1229.4,
+        "Temperature": 23.14109589,
+        "Incineration": 107.44
+    },
+    {
+        "city": "Nanping City",
+        "Precipitation": 1229.0,
+        "Temperature": 21.07671233,
+        "Incineration": 12.37
+    },
+    {
+        "city": "Nantong City",
+        "Precipitation": 684.0,
+        "Temperature": 16.48767123,
+        "Incineration": 59.88
+    },
+    {
+        "city": "Nantou Ccounty",
+        "Precipitation": 1893.0,
+        "Temperature": 19.0,
+        "Incineration": 22.0
+    },
+    {
+        "city": "Nanyang City",
+        "Precipitation": 602.0,
+        "Temperature": 16.27671233,
+        "Incineration": 49.25
+    },
+    {
+        "city": "Neijiang City",
+        "Precipitation": 1128.0,
+        "Temperature": 18.93561644,
+        "Incineration": 16.43
+    },
+    {
+        "city": "Ningbo City",
+        "Precipitation": 1651.0,
+        "Temperature": 18.1630137,
+        "Incineration": 111.0
+    },
+    {
+        "city": "Nujiang Prefecture",
+        "Precipitation": 617.0,
+        "Temperature": 11.0,
+        "Incineration": 23.0
+    },
+    {
+        "city": "Panzhihua City",
+        "Precipitation": 1053.4,
+        "Temperature": 21.85068493,
+        "Incineration": 17.91
+    },
+    {
+        "city": "Panjin City",
+        "Precipitation": 878.0,
+        "Temperature": 10.42465753,
+        "Incineration": 24.0
+    },
+    {
+        "city": "Penglai City",
+        "Precipitation": 581.0,
+        "Temperature": 13.72191781,
+        "Incineration": 7.3
+    },
+    {
+        "city": "Penghu County",
+        "Precipitation": 1670.0,
+        "Temperature": 23.4,
+        "Incineration": 24.0
+    },
+    {
+        "city": "Pingdingshan City",
+        "Precipitation": 689.0,
+        "Temperature": 16.09589041,
+        "Incineration": 30.3
+    },
+    {
+        "city": "Pingdu City",
+        "Precipitation": 708.0,
+        "Temperature": 13.92054795,
+        "Incineration": 36.67
+    },
+    {
+        "city": "Pingtung County",
+        "Precipitation": 1966.0,
+        "Temperature": 25.0,
+        "Incineration": 24.0
+    },
+    {
+        "city": "Pingxiang city",
+        "Precipitation": 900.0,
+        "Temperature": 14.45068493,
+        "Incineration": 15.84
+    },
+    {
+        "city": "Putian City",
+        "Precipitation": 1775.0,
+        "Temperature": 21.90273973,
+        "Incineration": 42.57
+    },
+    {
+        "city": "Puyang City",
+        "Precipitation": 458.0,
+        "Temperature": 14.71643836,
+        "Incineration": 21.9
+    },
+    {
+        "city": "Pu'er City",
+        "Precipitation": 477.0,
+        "Temperature": 20.63561644,
+        "Incineration": 7.95
+    },
+    {
+        "city": "Qiqihar City",
+        "Precipitation": 136.0,
+        "Temperature": 3.2,
+        "Incineration": 31.0
+    },
+    {
+        "city": "Qianjiang Country",
+        "Precipitation": 1200.0,
+        "Temperature": 16.1,
+        "Incineration": 12.78
+    },
+    {
+        "city": "Qinhuangdao City",
+        "Precipitation": 878.0,
+        "Temperature": 11.19041096,
+        "Incineration": 25.0
+    },
+    {
+        "city": "Qingdao City",
+        "Precipitation": 720.0,
+        "Temperature": 14.21369863,
+        "Incineration": 184.97
+    },
+    {
+        "city": "Qingyang County",
+        "Precipitation": 617.0,
+        "Temperature": 16.1,
+        "Incineration": 14.0
+    },
+    {
+        "city": "Qingyuan City",
+        "Precipitation": 878.0,
+        "Temperature": 20.7,
+        "Incineration": 30.65
+    },
+    {
+        "city": "Quzhou City",
+        "Precipitation": 1035.0,
+        "Temperature": 17.3,
+        "Incineration": 27.23
+    },
+    {
+        "city": "Qujing City",
+        "Precipitation": 1768.0,
+        "Temperature": 16.22876712,
+        "Incineration": 19.05
+    },
+    {
+        "city": "Quanzhou City",
+        "Precipitation": 1775.0,
+        "Temperature": 22.26438356,
+        "Incineration": 51.4
+    },
+    {
+        "city": "Shigatse City",
+        "Precipitation": 377.0,
+        "Temperature": 6.3,
+        "Incineration": 4.13
+    },
+    {
+        "city": "Rizhao City",
+        "Precipitation": 831.0,
+        "Temperature": 14.45205479,
+        "Incineration": 25.54
+    },
+    {
+        "city": "Rongcheng City",
+        "Precipitation": 1742.0,
+        "Temperature": 13.30684932,
+        "Incineration": 15.24
+    },
+    {
+        "city": "Rushan City",
+        "Precipitation": 601.0,
+        "Temperature": 13.16986301,
+        "Incineration": 6.43
+    },
+    {
+        "city": "Sanmenxia City",
+        "Precipitation": 1093.0,
+        "Temperature": 15.29178082,
+        "Incineration": 15.86
+    },
+    {
+        "city": "Sanming City",
+        "Precipitation": 1469.0,
+        "Temperature": 21.2260274,
+        "Incineration": 11.45
+    },
+    {
+        "city": "Sanya City",
+        "Precipitation": 1268.0,
+        "Temperature": 27.44794521,
+        "Incineration": 45.77
+    },
+    {
+        "city": "Xiamen City",
+        "Precipitation": 1775.2,
+        "Temperature": 22.39315068,
+        "Incineration": 161.56
+    },
+    {
+        "city": "Lhoka Prefecture",
+        "Precipitation": 617.0,
+        "Temperature": 7.4,
+        "Incineration": 23.0
+    },
+    {
+        "city": "Shantou City",
+        "Precipitation": 1738.0,
+        "Temperature": 23.70547945,
+        "Incineration": 78.76
+    },
+    {
+        "city": "Shanwei City",
+        "Precipitation": 1775.0,
+        "Temperature": 22.0,
+        "Incineration": 9.13
+    },
+    {
+        "city": "Shangqiu City",
+        "Precipitation": 920.0,
+        "Temperature": 15.05479452,
+        "Incineration": 28.17
+    },
+    {
+        "city": "Shanghai Municipality",
+        "Precipitation": 1651.5,
+        "Temperature": 17.91643836,
+        "Incineration": 613.85
+    },
+    {
+        "city": "Shangrao City",
+        "Precipitation": 1229.0,
+        "Temperature": 18.99726027,
+        "Incineration": 27.76
+    },
+    {
+        "city": "Shaoguan City",
+        "Precipitation": 1700.0,
+        "Temperature": 21.3109589,
+        "Incineration": 21.76
+    },
+    {
+        "city": "Shaoyang city",
+        "Precipitation": 142.0,
+        "Temperature": 17.90410959,
+        "Incineration": 17.42
+    },
+    {
+        "city": "Shaoxing City",
+        "Precipitation": 2127.0,
+        "Temperature": 18.11506849,
+        "Incineration": 82.02
+    },
+    {
+        "city": "Shenzhen City",
+        "Precipitation": 1966.0,
+        "Temperature": 24.4109589,
+        "Incineration": 574.83
+    },
+    {
+        "city": "Shennongjia Forestry District",
+        "Precipitation": 900.0,
+        "Temperature": 12.0,
+        "Incineration": 23.0
+    },
+    {
+        "city": "Shenyang City",
+        "Precipitation": 573.6,
+        "Temperature": 9.183561644,
+        "Incineration": 31.0
+    },
+    {
+        "city": "Shiyan City",
+        "Precipitation": 760.0,
+        "Temperature": 16.49452055,
+        "Incineration": 38.7
+    },
+    {
+        "city": "Shijiazhuang City",
+        "Precipitation": 534.5,
+        "Temperature": 14.8739726,
+        "Incineration": 31.0
+    },
+    {
+        "city": "Shizuishan City",
+        "Precipitation": 480.0,
+        "Temperature": 8.4,
+        "Incineration": 21.77
+    },
+    {
+        "city": "Shouguang City",
+        "Precipitation": 547.0,
+        "Temperature": 14.84657534,
+        "Incineration": 12.6
+    },
+    {
+        "city": "Shuozhou City",
+        "Precipitation": 440.0,
+        "Temperature": 8.663013699,
+        "Incineration": 23.0
+    },
+    {
+        "city": "Suzhou City(Jiangsu)",
+        "Precipitation": 2055.0,
+        "Temperature": 17.46986301,
+        "Incineration": 214.33
+    },
+    {
+        "city": "Suizhou City",
+        "Precipitation": 672.0,
+        "Temperature": 16.28356164,
+        "Incineration": 21.29
+    },
+    {
+        "city": "Suining City",
+        "Precipitation": 1127.1,
+        "Temperature": 18.46849315,
+        "Incineration": 60.91
+    },
+    {
+        "city": "Taipei City",
+        "Precipitation": 1775.0,
+        "Temperature": 22.4,
+        "Incineration": 351.93
+    },
+    {
+        "city": "Taitung County",
+        "Precipitation": 2383.0,
+        "Temperature": 22.0,
+        "Incineration": 22.0
+    },
+    {
+        "city": "Tainan City",
+        "Precipitation": 1638.0,
+        "Temperature": 23.8,
+        "Incineration": 127.33
+    },
+    {
+        "city": "Taichung City",
+        "Precipitation": 2383.0,
+        "Temperature": 22.5,
+        "Incineration": 106.0
+    },
+    {
+        "city": "Taizhou City",
+        "Precipitation": 581.0,
+        "Temperature": 16.8,
+        "Incineration": 77.81
+    },
+    {
+        "city": "Taicang City",
+        "Precipitation": 1742.0,
+        "Temperature": 17.0,
+        "Incineration": 14.0
+    },
+    {
+        "city": "Taiyuan City",
+        "Precipitation": 401.5,
+        "Temperature": 11.8890411,
+        "Incineration": 23.0
+    },
+    {
+        "city": "Tai'an City",
+        "Precipitation": 537.0,
+        "Temperature": 9.952054795,
+        "Incineration": 31.71
+    },
+    {
+        "city": "Taizhou City",
+        "Precipitation": 1742.0,
+        "Temperature": 18.89863014,
+        "Incineration": 29.0
+    },
+    {
+        "city": "Tangshan City",
+        "Precipitation": 547.0,
+        "Temperature": 12.55890411,
+        "Incineration": 24.0
+    },
+    {
+        "city": "Taoyuan City",
+        "Precipitation": 2383.0,
+        "Temperature": 22.6,
+        "Incineration": 93.75
+    },
+    {
+        "city": "Tianjin Municipality",
+        "Precipitation": 574.4,
+        "Temperature": 14.89863014,
+        "Incineration": 421.66
+    },
+    {
+        "city": "Tianmen City",
+        "Precipitation": 1200.0,
+        "Temperature": 16.1,
+        "Incineration": 16.43
+    },
+    {
+        "city": "Tieling City",
+        "Precipitation": 708.0,
+        "Temperature": 9.460273973,
+        "Incineration": 31.0
+    },
+    {
+        "city": "Tongliao City",
+        "Precipitation": 440.0,
+        "Temperature": 8.561643836,
+        "Incineration": 31.0
+    },
+    {
+        "city": "Tongchuan city",
+        "Precipitation": 480.0,
+        "Temperature": 12.88082192,
+        "Incineration": 13.63
+    },
+    {
+        "city": "Tongling City",
+        "Precipitation": 1584.0,
+        "Temperature": 17.45616438,
+        "Incineration": 10.74
+    },
+    {
+        "city": "Wafangdian City",
+        "Precipitation": 592.0,
+        "Temperature": 11.26438356,
+        "Incineration": 33.0
+    },
+    {
+        "city": "Weihai City",
+        "Precipitation": 1670.0,
+        "Temperature": 13.90821918,
+        "Incineration": 41.35
+    },
+    {
+        "city": "Weifang City",
+        "Precipitation": 288.3,
+        "Temperature": 14.74931507,
+        "Incineration": 47.43
+    },
+    {
+        "city": "Weinan City",
+        "Precipitation": 537.0,
+        "Temperature": 15.60410959,
+        "Incineration": 20.39
+    },
+    {
+        "city": "Wenzhou City",
+        "Precipitation": 1742.0,
+        "Temperature": 19.61506849,
+        "Incineration": 24.0
+    },
+    {
+        "city": "Wendeng City",
+        "Precipitation": 708.0,
+        "Temperature": 13.39726027,
+        "Incineration": 25.0
+    },
+    {
+        "city": "Wenshan Prefecture",
+        "Precipitation": 1000.0,
+        "Temperature": 17.5,
+        "Incineration": 10.33
+    },
+    {
+        "city": "Wuhai City",
+        "Precipitation": 480.0,
+        "Temperature": 10.5,
+        "Incineration": 23.0
+    },
+    {
+        "city": "Urumqi City",
+        "Precipitation": 408.9,
+        "Temperature": 9.1,
+        "Incineration": 138.55
+    },
+    {
+        "city": "Wuxi City",
+        "Precipitation": 2055.0,
+        "Temperature": 18.25616438,
+        "Incineration": 198.34
+    },
+    {
+        "city": "Wuhu City",
+        "Precipitation": 1742.0,
+        "Temperature": 17.33104396,
+        "Incineration": 27.0
+    },
+    {
+        "city": "Wujiang City",
+        "Precipitation": 1742.0,
+        "Temperature": 17.54246575,
+        "Incineration": 28.0
+    },
+    {
+        "city": "Wuhan City",
+        "Precipitation": 1427.5,
+        "Temperature": 17.15068493,
+        "Incineration": 330.68
+    },
+    {
+        "city": "Xi’an city",
+        "Precipitation": 558.0,
+        "Temperature": 15.48493151,
+        "Incineration": 332.34
+    },
+    {
+        "city": "Xining City",
+        "Precipitation": 308.2,
+        "Temperature": 7.283561644,
+        "Incineration": 55.8
+    },
+    {
+        "city": "Sipsongpanna Prefecture",
+        "Precipitation": 1893.7,
+        "Temperature": 20.0,
+        "Incineration": 23.0
+    },
+    {
+        "city": "Xilin Gol League",
+        "Precipitation": 250.0,
+        "Temperature": 1.5,
+        "Incineration": 22.0
+    },
+    {
+        "city": "Xiantao city",
+        "Precipitation": 1200.0,
+        "Temperature": 16.3,
+        "Incineration": 18.89
+    },
+    {
+        "city": "Xianning City",
+        "Precipitation": 1584.2,
+        "Temperature": 17.62739726,
+        "Incineration": 15.26
+    },
+    {
+        "city": "Xianyang City",
+        "Precipitation": 537.0,
+        "Temperature": 14.07260274,
+        "Incineration": 30.96
+    },
+    {
+        "city": "HongKong SAR",
+        "Precipitation": 2383.0,
+        "Temperature": 22.8,
+        "Incineration": 594.48
+    },
+    {
+        "city": "Shangri-la City",
+        "Precipitation": 617.6,
+        "Temperature": 5.5,
+        "Incineration": 4.64
+    },
+    {
+        "city": "Xiangtan City",
+        "Precipitation": 142.0,
+        "Temperature": 18.51232877,
+        "Incineration": 30.42
+    },
+    {
+        "city": "Xiangyang City",
+        "Precipitation": 672.0,
+        "Temperature": 15.1,
+        "Incineration": 34.33
+    },
+    {
+        "city": "Xiaogan City",
+        "Precipitation": 1200.0,
+        "Temperature": 16.0,
+        "Incineration": 16.4
+    },
+    {
+        "city": "Xinzhou City",
+        "Precipitation": 1450.0,
+        "Temperature": 10.50684932,
+        "Incineration": 23.0
+    },
+    {
+        "city": "New Taipei City",
+        "Precipitation": 1775.0,
+        "Temperature": 22.0,
+        "Incineration": 24.0
+    },
+    {
+        "city": "Xinyu City",
+        "Precipitation": 1700.0,
+        "Temperature": 18.7739726,
+        "Incineration": 16.1
+    },
+    {
+        "city": "Hsinchu City",
+        "Precipitation": 1700.0,
+        "Temperature": 22.2,
+        "Incineration": 24.0
+    },
+    {
+        "city": "Hsinchu County",
+        "Precipitation": 1700.0,
+        "Temperature": 22.2,
+        "Incineration": 24.0
+    },
+    {
+        "city": "Xinyang City",
+        "Precipitation": 537.0,
+        "Temperature": 16.60821918,
+        "Incineration": 27.11
+    },
+    {
+        "city": "Xingtai City",
+        "Precipitation": 534.0,
+        "Temperature": 14.86712329,
+        "Incineration": 27.0
+    },
+    {
+        "city": "Hinggan League",
+        "Precipitation": 1469.0,
+        "Temperature": 5.0,
+        "Incineration": 29.0
+    },
+    {
+        "city": "Suqian City",
+        "Precipitation": 831.0,
+        "Temperature": 15.65890411,
+        "Incineration": 27.0
+    },
+    {
+        "city": "Suzhou City(Anhui)",
+        "Precipitation": 910.0,
+        "Temperature": 16.21917808,
+        "Incineration": 29.0
+    },
+    {
+        "city": "Xuzhou City",
+        "Precipitation": 831.6,
+        "Temperature": 15.50547945,
+        "Incineration": 31.0
+    },
+    {
+        "city": "Xuchang City",
+        "Precipitation": 672.0,
+        "Temperature": 15.28767123,
+        "Incineration": 23.33
+    },
+    {
+        "city": "Xuancheng City",
+        "Precipitation": 1742.0,
+        "Temperature": 17.07808219,
+        "Incineration": 14.0
+    },
+    {
+        "city": "Yaan City",
+        "Precipitation": 1388.6,
+        "Temperature": 17.98356164,
+        "Incineration": 15.19
+    },
+    {
+        "city": "Yantai City",
+        "Precipitation": 574.0,
+        "Temperature": 13.8,
+        "Incineration": 119.91
+    },
+    {
+        "city": "Yanan City",
+        "Precipitation": 510.4,
+        "Temperature": 10.89041096,
+        "Incineration": 13.21
+    },
+    {
+        "city": "Yancheng City",
+        "Precipitation": 684.0,
+        "Temperature": 15.73561644,
+        "Incineration": 24.0
+    },
+    {
+        "city": "Yangzhou City",
+        "Precipitation": 1742.0,
+        "Temperature": 16.32876712,
+        "Incineration": 31.0
+    },
+    {
+        "city": "Yangjiang City",
+        "Precipitation": 1966.0,
+        "Temperature": 23.78082192,
+        "Incineration": 22.82
+    },
+    {
+        "city": "Yangquan City",
+        "Precipitation": 480.0,
+        "Temperature": 11.8260274,
+        "Incineration": 23.0
+    },
+    {
+        "city": "Yibin City",
+        "Precipitation": 866.3,
+        "Temperature": 19.68767123,
+        "Incineration": 29.21
+    },
+    {
+        "city": "Yichang City",
+        "Precipitation": 1651.5,
+        "Temperature": 16.84931507,
+        "Incineration": 31.43
+    },
+    {
+        "city": "Yichun City",
+        "Precipitation": 1469.0,
+        "Temperature": 17.2,
+        "Incineration": 16.75
+    },
+    {
+        "city": "Yilan County",
+        "Precipitation": 1268.0,
+        "Temperature": 25.0,
+        "Incineration": 24.0
+    },
+    {
+        "city": "Yixing City",
+        "Precipitation": 1200.0,
+        "Temperature": 16.54520548,
+        "Incineration": 14.0
+    },
+    {
+        "city": "Yiwu City",
+        "Precipitation": 672.0,
+        "Temperature": 17.0,
+        "Incineration": 14.0
+    },
+    {
+        "city": "Yiyang City",
+        "Precipitation": 866.0,
+        "Temperature": 15.28630137,
+        "Incineration": 17.19
+    },
+    {
+        "city": "Yinchuan City",
+        "Precipitation": 227.0,
+        "Temperature": 11.31643836,
+        "Incineration": 51.93
+    },
+    {
+        "city": "Yingtan City",
+        "Precipitation": 1700.0,
+        "Temperature": 19.19452055,
+        "Incineration": 14.0
+    },
+    {
+        "city": "Yingkou City",
+        "Precipitation": 878.0,
+        "Temperature": 10.53424658,
+        "Incineration": 24.0
+    },
+    {
+        "city": "Yongzhou City",
+        "Precipitation": 1901.0,
+        "Temperature": 19.13835616,
+        "Incineration": 18.85
+    },
+    {
+        "city": "Yuxi City",
+        "Precipitation": 892.0,
+        "Temperature": 17.5260274,
+        "Incineration": 10.86
+    },
+    {
+        "city": "Yueyang City",
+        "Precipitation": 1638.4,
+        "Temperature": 18.23972603,
+        "Incineration": 29.28
+    },
+    {
+        "city": "Yunfu City",
+        "Precipitation": 1469.0,
+        "Temperature": 21.5,
+        "Incineration": 10.76
+    },
+    {
+        "city": "Yunlin County",
+        "Precipitation": 1700.0,
+        "Temperature": 22.0,
+        "Incineration": 24.0
+    },
+    {
+        "city": "Yuncheng City",
+        "Precipitation": 592.4,
+        "Temperature": 15.21780822,
+        "Incineration": 30.0
+    },
+    {
+        "city": "Zaozhuang City",
+        "Precipitation": 534.0,
+        "Temperature": 15.24657534,
+        "Incineration": 46.25
+    },
+    {
+        "city": "Zhanjiang City",
+        "Precipitation": 1674.0,
+        "Temperature": 24.49452055,
+        "Incineration": 37.63
+    },
+    {
+        "city": "Zhangjiagang City",
+        "Precipitation": 581.0,
+        "Temperature": 17.13287671,
+        "Incineration": 24.0
+    },
+    {
+        "city": "Zhangjiajie City",
+        "Precipitation": 1071.0,
+        "Temperature": 18.45890411,
+        "Incineration": 12.43
+    },
+    {
+        "city": "Zhangjiakou City",
+        "Precipitation": 440.0,
+        "Temperature": 9.624657534,
+        "Incineration": 23.0
+    },
+    {
+        "city": "Zhangqiu City",
+        "Precipitation": 401.0,
+        "Temperature": 15.00273973,
+        "Incineration": 29.0
+    },
+    {
+        "city": "Changhua County",
+        "Precipitation": 1775.0,
+        "Temperature": 22.6,
+        "Incineration": 24.0
+    },
+    {
+        "city": "Zhangzhou City",
+        "Precipitation": 1670.0,
+        "Temperature": 23.28493151,
+        "Incineration": 24.0
+    },
+    {
+        "city": "Changchun City",
+        "Precipitation": 530.5,
+        "Temperature": 7.157534247,
+        "Incineration": 31.0
+    },
+    {
+        "city": "Changsha City",
+        "Precipitation": 1638.4,
+        "Temperature": 18.50547945,
+        "Incineration": 203.04
+    },
+    {
+        "city": "Changzhi City",
+        "Precipitation": 592.0,
+        "Temperature": 11.65342466,
+        "Incineration": 23.0
+    },
+    {
+        "city": "Zhaoyuan City",
+        "Precipitation": 480.0,
+        "Temperature": 11.5,
+        "Incineration": 6.86
+    },
+    {
+        "city": "Shaotong City",
+        "Precipitation": 665.0,
+        "Temperature": 13.94657534,
+        "Incineration": 14.6
+    },
+    {
+        "city": "Zhaoqing City",
+        "Precipitation": 2137.0,
+        "Temperature": 23.75616438,
+        "Incineration": 27.76
+    },
+    {
+        "city": "Zhenjiang City",
+        "Precipitation": 1224.0,
+        "Temperature": 16.74931507,
+        "Incineration": 31.0
+    },
+    {
+        "city": "Zhengzhou City",
+        "Precipitation": 689.2,
+        "Temperature": 15.98219178,
+        "Incineration": 206.96
+    },
+    {
+        "city": "Zhongshan City",
+        "Precipitation": 1966.0,
+        "Temperature": 24.05616438,
+        "Incineration": 24.97
+    },
+    {
+        "city": "Chongqing Municipality",
+        "Precipitation": 1450.9,
+        "Temperature": 19.7260274,
+        "Incineration": 440.03
+    },
+    {
+        "city": "Zhoushan City",
+        "Precipitation": 1450.0,
+        "Temperature": 17.66575342,
+        "Incineration": 24.0
+    },
+    {
+        "city": "Zhoukou City",
+        "Precipitation": 910.0,
+        "Temperature": 16.81369863,
+        "Incineration": 14.86
+    },
+    {
+        "city": "Zhuhai City",
+        "Precipitation": 1966.0,
+        "Temperature": 24.31369863,
+        "Incineration": 81.5
+    },
+    {
+        "city": "Zhuzhou City",
+        "Precipitation": 1638.0,
+        "Temperature": 18.75479452,
+        "Incineration": 38.19
+    },
+    {
+        "city": "Zhuji City",
+        "Precipitation": 1742.0,
+        "Temperature": 17.8260274,
+        "Incineration": 29.0
+    },
+    {
+        "city": "Zhumadian City",
+        "Precipitation": 1388.0,
+        "Temperature": 15.94657534,
+        "Incineration": 18.86
+    },
+    {
+        "city": "Ziyang City",
+        "Precipitation": 807.8,
+        "Temperature": 16.18219178,
+        "Incineration": 18.28
+    },
+    {
+        "city": "Zibo City",
+        "Precipitation": 288.0,
+        "Temperature": 14.57671233,
+        "Incineration": 31.0
+    },
+    {
+        "city": "Zigong City",
+        "Precipitation": 994.8,
+        "Temperature": 19.43287671,
+        "Incineration": 35.47
+    },
+    {
+        "city": "Zunyi City",
+        "Precipitation": 1000.0,
+        "Temperature": 16.99178082,
+        "Incineration": 34.51
+    }
+]
