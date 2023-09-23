@@ -9,6 +9,6 @@ app.use(express.urlencoded({extended:false}))
 
 app.use("/aqi", router)
 
-app.listen("5500", ()=>{
+app.listen("5500", "0.0.0.0", ()=>{
     console.log("http://localhost:5500服务开启成功,监听端口中...")
 })

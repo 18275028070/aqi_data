@@ -52,7 +52,7 @@
             async initCharts(){
                 this.chartInstance = this.$echarts.init(this.$refs.map_ref, this.theme)
                 // 中国地图数据：http://localhost:8999/static/map/china.json,路径没有配置到Koa2里面，所以不能直接用$http
-                const res = await axios.get('http://localhost:8999/static/map/china.json')
+                const res = await axios.get('http://1.14.28.248/static/map/china.json')
                 this.$echarts.registerMap('china', res.data)
                 const initOption = {
                     title:{
@@ -94,7 +94,7 @@
                     // 获取省份的矢量数据
                     // 判断当期所点击的省份的地图矢量数据是否存在mapData中
                     if(!this.mapData[provinceInfo.key]){  // 当没有访问过时才发起ajax请求
-                        const ret = await axios.get('http://localhost:8999' + provinceInfo.path)
+                        const ret = await axios.get('http://1.14.28.248' + provinceInfo.path)
                         console.log(ret)
                         this.mapData[provinceInfo.key] = ret.data // 将省份的数据进行缓存
                         this.$echarts.registerMap(provinceInfo.key, ret.data) // 注册得到省份的拼音和矢量数据
